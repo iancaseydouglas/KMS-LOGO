@@ -23,7 +23,7 @@ png/
 
 Here’s a preview of one of the larger PNG exports:
 
-![KMS Logo 1024px](./png/kms-logo-key-left-fill-white-1024.png)
+![KMS Logo](png/kms-logo-key-left-outline-black-white-1024.png)
 
 ## 🛠️ Script Usage
 
