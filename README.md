@@ -1,5 +1,10 @@
 # Kings Mountain Security — Brand Assets
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iancaseydouglas/KMS-LOGO/main/png/kms-logo-key-left-outline-orange-blue-1024.png" alt="KMS Logo" width="700"/>
+</div>
+
+---
 This repository contains official brand image assets for **Kings Mountain Security**, exported from a master SVG file. These assets are optimized for use across web, mobile, and print platforms.
 
 ## 📦 Contents
@@ -16,14 +21,18 @@ png/
 ├── kms-logo-key-left-fill-white-1024.png
 ├── kms-logo-key-left-fill-white-1280.png
 ├── kms-logo-key-left-fill-white-128.png
+```
+
 ---
 
+## ⚙️ Regenerate Assets
 
-## 🖼️ Preview
+To regenerate assets from the source SVG file, use the included Bash script:
 
-Here’s a preview of one of the larger PNG exports:
+```bash
+./export-assets.sh -i input-image.svg
+```
 
-![KMS Logo](png/kms-logo-key-left-outline-black-white-1024.png)
 
 ## 🛠️ Script Usage
 
